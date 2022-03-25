@@ -1,0 +1,56 @@
+body{
+  background: url(https://img.freepik.com/free-vector/gradient-dynamic-blue-lines-background_23-2148995756.jpg?size=626&ext=jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+#content{
+  background-color: rgba(255, 255, 255, 0.363);
+  width: 30%;
+  margin: 150px auto;
+  border-radius: 15px;
+}
+#one{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+}
+
+#four{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 25px;
+  color: yellow;
+}
+
+.two{
+  width: 150px;
+  height: 20px;
+  border-radius: 5px;
+  border: none;
+}
+
+#three{
+  width: 100px;
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  background-color: rgb(206, 53, 53);
+  border-radius: 50px;
+}
+
+#three:hover{
+  width: 100px;
+  font-size: 25px;
+  font-style: "Comic Sans";
+  color: white;
+  background-color: rgb(18, 90, 0);
+  border-radius: 50px;
+  font-style: italic;
+}
+
+span#er{
+  font-size: large;
+  color: rgb(255, 255, 255);
+}
+

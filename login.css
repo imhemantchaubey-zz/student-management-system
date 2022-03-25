@@ -1,0 +1,33 @@
+body{
+  background: url(https://www.mymusicstaff.com/wp-content/uploads/2019/04/StudentManagement.png);
+  background-position: center 0.5cm;
+  background-repeat: no-repeat;
+  background-size: 70%;
+}
+
+h3#head{
+  background-color: rgba(141, 141, 138, 0.411);
+  border-radius: 15px;
+  width: 50%;
+  font-size: 70px;
+}
+
+.button{
+  width: 200px;
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: darkblue;
+  background-color: chartreuse;
+  border-radius: 5px;
+}
+
+.button:hover{
+  width: 200px;
+  font-size: 25px;
+  font-style: "Comic Sans";
+  color: darkblue;
+  background-color: rgb(197, 255, 139);
+  border-radius: 5px;
+  font-style: italic;
+}
+
